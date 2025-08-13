@@ -1,7 +1,7 @@
 # Disable_Windows_Web_Search
 
 使用方式:
-  1.請以管理員權限執行Disable_Windows_Web_Search_v1.0.exe。 已完成
+  1.請以管理員權限執行Disable_Windows_Web_Search_v1.0.exe。 已完成在註冊檔新增Explorer DisableSearchBoxSuggestions = 0
 
 使用後截圖:
 <img width="831" height="680" alt="windows 10" src="https://github.com/user-attachments/assets/4d051015-ddd5-47cf-aa0e-5c91c501152b" />
